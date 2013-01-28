@@ -53,7 +53,7 @@ jQuery(function(){
 	$('.share2Sina').click(function(){
 		var title = $(this).attr('title');
 		if(!title) title = '新年好运气！来@魅力惠GlamourSales 玩老虎机中购物券！';
-		share2weibo(title, null, 'http://games.glamour-sales.com.cn/images/share.jpg');
+		share2weibo(title, null, 'http://media2.glamour-sales.com.cn/media/ad_banner/game2013/share.jpg');
 	});
 
 	$('.dlgCloseBtn').click(function(){

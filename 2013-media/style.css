@@ -17,12 +17,12 @@ body {
 	font-variant:normal;
 	font-weight:normal;
 	line-height: 1.5;
-	background:#E40011 url(images/bg.png) repeat;width:100%;
+	background:#E40011 url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/bg.png) repeat;width:100%;
 }
 a img{border:0;}
 .clr{clear:both;}
 #main{width:693px;margin-left:auto;margin-right:auto;}
-#player{width:693px;height:822px;background:url(images/player_bg.png) no-repeat;}
+#player{width:693px;height:822px;background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/player_bg.png) no-repeat;}
 #playBtn{width:120px;height:46px;display:block;position:relative;margin: 0 auto;top:358px;}
 
 #headLink{display:block;text-align:center;margin:0 auto;}
@@ -34,12 +34,12 @@ a img{border:0;}
 
 #playerBox ul{}
 #playerBox li{height:83px;list-style:none;}
-li.red_heart{background:url(images/red_heart.png) center center no-repeat;}
-li.black_heart{background:url(images/black_heart.png) center center no-repeat;}
-li.black_club{background:url(images/black_club.png) center center no-repeat;}
-li.red_square{background:url(images/red_square.png) center center no-repeat;}
+li.red_heart{background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/red_heart.png) center center no-repeat;}
+li.black_heart{background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/black_heart.png) center center no-repeat;}
+li.black_club{background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/black_club.png) center center no-repeat;}
+li.red_square{background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/red_square.png) center center no-repeat;}
 
-#intro{width:491px;height:424px;margin:40px auto 0 auto;background:url(images/rule.png) no-repeat;}
+#intro{width:491px;height:424px;margin:40px auto 0 auto;background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/rule.png) no-repeat;}
 #intro a.share2Sina{display:block;width:24px;height:24px;position:relative;top:355px;left:250px;};
 
 .dlgLogin{}
@@ -47,7 +47,7 @@ li.red_square{background:url(images/red_square.png) center center no-repeat;}
 .dlgLogin p{font-size:14px;line-height:30px;}
 .dlgLogin .buttons{margin:20px 0 0;}
 
-.dlg{width:357px;height:251px;position:absolute;left:35%;top:620px;background:url(images/dlg_bg.png) no-repeat;font-family: "Microsoft YaHei", "微软雅黑", "宋体";}
+.dlg{width:357px;height:251px;position:absolute;left:35%;top:620px;background:url(http://media2.glamour-sales.com.cn/media/ad_banner/game2013/dlg_bg.png) no-repeat;font-family: "Microsoft YaHei", "微软雅黑", "宋体";}
 .dlgCloseBtn{width:37px;height:38px;position:absolute;display:block;right:0;top:0;}
 .dlg .dlgContent{}
 

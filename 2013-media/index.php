@@ -22,9 +22,9 @@ var isLogin = <?php echo $login?'true':'false';?>;
 </head>
 <body>
 <div id="main">
-	<a href="http://www.glamour-sales.com.cn" id="headLink"><img src="images/logo.png" /></a>
+	<a href="http://www.glamour-sales.com.cn" id="headLink"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/logo.png" /></a>
 	<div id="player">		
-		<a href="javascript:;" id="playBtn"><img src="images/play.png" /></a>
+		<a href="javascript:;" id="playBtn"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/play.png" /></a>
 		<div id="playerBox">
 			<div id="item1">
 				<ul>
@@ -54,23 +54,23 @@ var isLogin = <?php echo $login?'true':'false';?>;
 		</div>
 	</div>
 	<div id="intro">
-		<a href="javascript:;" class="share2Sina"><img src="images/icon_sina.png" /></a>
+		<a href="javascript:;" class="share2Sina"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/icon_sina.png" /></a>
 	</div>
 
 	<div class="dlgLogin dlg" style="display:none;">
-		<a href="javascript:;" class="dlgCloseBtn"><img src="images/dlg_close_btn.png" /></a>
+		<a href="javascript:;" class="dlgCloseBtn"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/dlg_close_btn.png" /></a>
 		<div class="dlgContent">
 			<h1>亲爱的会员，</h1>
 			<p>需要先登录才能玩游戏哦～</p>
 			<div class="buttons">
-				<a class="loginBtn" href="http://www.glamour-sales.com.cn/customer/account/login/"><img src="images/login_btn.png" /></a>
-				<a class="regBtn" href="http://www.glamour-sales.com.cn/customer/account/create/"><img src="images/reg_btn.png" /></a>
+				<a class="loginBtn" href="http://www.glamour-sales.com.cn/customer/account/login/"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/login_btn.png" /></a>
+				<a class="regBtn" href="http://www.glamour-sales.com.cn/customer/account/create/"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/reg_btn.png" /></a>
 			</div>
 		</div>		
 	</div>
 
 	<div class="dlgWin dlg" style="display:none;">
-		<a href="javascript:;" class="dlgCloseBtn"><img src="images/dlg_close_btn.png" /></a>
+		<a href="javascript:;" class="dlgCloseBtn"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/dlg_close_btn.png" /></a>
 		<div class="dlgContent">
 			<div class="title">
 				<h1>运气很好哦！</h1>
@@ -86,28 +86,28 @@ var isLogin = <?php echo $login?'true':'false';?>;
 				<p>遗失优惠券号将不予补发哦~</p>
 			</div>
 			<div class="buttons">
-				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="images/use_btn.png" /></a>
-				分享&nbsp;<a href="javascript:;" class="share2Sina" title="我玩老虎机中了@魅力惠GlamourSales 的新年购物券！你呢？比我厉害吗？游戏链接"><img src="images/icon_sina.png" /></a>
+				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/use_btn.png" /></a>
+				分享&nbsp;<a href="javascript:;" class="share2Sina" title="我玩老虎机中了@魅力惠GlamourSales 的新年购物券！你呢？比我厉害吗？游戏链接"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/icon_sina.png" /></a>
 			</div>
 		</div>		
 	</div>
 
 	<div class="dlgPlayed dlg" style="display:none;">
-		<a href="javascript:;" class="dlgCloseBtn"><img src="images/dlg_close_btn.png" /></a>
+		<a href="javascript:;" class="dlgCloseBtn"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/dlg_close_btn.png" /></a>
 		<div class="dlgContent">
 			<p>请别贪心~ 每天只能参与一次哦~<br />明天再来吧！</p>
 			<div class="buttons">
-				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="images/buy_btn.png" /></a>
+				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/buy_btn.png" /></a>
 			</div>
 		</div>		
 	</div>
 
 	<div class="dlgUnlucky dlg" style="display:none;">
-		<a href="javascript:;" class="dlgCloseBtn"><img src="images/dlg_close_btn.png" /></a>
+		<a href="javascript:;" class="dlgCloseBtn"><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/dlg_close_btn.png" /></a>
 		<div class="dlgContent">
 			<p>谢谢参与，明天来试试运气吧！</p>
 			<div class="buttons">
-				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="images/buy_btn.png" /></a>
+				<a class="loginBtn" href="http://www.glamour-sales.com.cn/" target="_blank" ><img src="http://media2.glamour-sales.com.cn/media/ad_banner/game2013/buy_btn.png" /></a>
 			</div>
 		</div>		
 	</div>
