@@ -1,0 +1,78 @@
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del,
+dfn, em, font, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form,
+label, legend,table, caption, tbody, tfoot, thead, tr, th, td{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+}
+input:focus, textarea:focus { outline: none; }
+body {
+	color:#000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-size-adjust:none;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height: 1.5;
+	background:#E40011 url(images/bg.png) repeat;width:100%;
+}
+a img{border:0;}
+.clr{clear:both;}
+#main{width:693px;margin-left:auto;margin-right:auto;}
+#player{width:693px;height:822px;background:url(images/player_bg.png) no-repeat;}
+#playBtn{width:120px;height:46px;display:block;position:relative;margin: 0 auto;top:358px;}
+
+#headLink{display:block;text-align:center;margin:0 auto;}
+
+#playerBox{width:271px;height:83px;position:relative;top:418px;left:204px;overflow:hidden;}
+#playerBox #item1{width:87px;height:83px;float:left;}
+#playerBox #item2{width:87px;height:83px;float:left;margin-left:5px;}
+#playerBox #item3{width:87px;height:83px;float:left;margin-left:4px;}
+
+#playerBox ul{}
+#playerBox li{height:83px;list-style:none;}
+li.red_heart{background:url(images/red_heart.png) center center no-repeat;}
+li.black_heart{background:url(images/black_heart.png) center center no-repeat;}
+li.black_club{background:url(images/black_club.png) center center no-repeat;}
+li.red_square{background:url(images/red_square.png) center center no-repeat;}
+
+#intro{width:491px;height:424px;margin:40px auto 0 auto;background:url(images/rule.png) no-repeat;}
+#intro a.share2Sina{display:block;width:24px;height:24px;position:relative;top:355px;left:250px;};
+
+.dlgLogin{}
+.dlgLogin h1{font-size:18px;font-weight:bold;}
+.dlgLogin p{font-size:14px;line-height:30px;}
+.dlgLogin .buttons{margin:20px 0 0;}
+
+.dlg{width:357px;height:251px;position:absolute;left:35%;top:620px;background:url(images/dlg_bg.png) no-repeat;font-family: "Microsoft YaHei", "微软雅黑", "宋体";}
+.dlgCloseBtn{width:37px;height:38px;position:absolute;display:block;right:0;top:0;}
+.dlg .dlgContent{}
+
+.dlgLogin .dlgContent{margin:60px 0 0 80px}
+.dlgLogin .loginBtn{margin-right:20px;}
+
+.dlgWin{text-align:center;font-size:14px;}
+.dlgWin .dlgContent{margin:30px auto 0;width:250px;}
+.dlgWin .title h1{color:#e42621;font-size:18px;font-weight:bold;}
+.dlgWin .title p{font-weight:bold;}
+.dlgWin .title #couponValue{color:#e42621}
+.dlgWin .notice{font-size:13px;}
+.dlgWin .info{font-size:13px;padding:5px 0;border-top:1px solid #9d9d9e;border-bottom:1px solid #9d9d9e;}
+.dlgWin .buttons{margin:8px 0;}
+.dlgWin .buttons img{vertical-align:middle;}
+
+.dlgPlayed{}
+.dlgPlayed .dlgContent{margin:60px 0 0;text-align:center;}
+.dlgPlayed p{font-size:14px;line-height:30px;}
+.dlgPlayed .buttons{margin:20px 0 0;}
+
+.dlgUnlucky{}
+.dlgUnlucky .dlgContent{margin:80px 0 0;text-align:center;}
+.dlgUnlucky p{font-size:14px;line-height:30px;}
+.dlgUnlucky .buttons{margin:20px 0 0;}
+
+
+
